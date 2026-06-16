@@ -1,8 +1,15 @@
 # Reddit Marketing for B2B SaaS Research
 
-## Goal
+## Project Overview
 
-Research how B2B SaaS companies use Reddit and community-driven marketing to acquire customers.
+This repository contains research on Reddit marketing strategies for B2B SaaS companies. The goal is to understand how successful marketers, founders, and growth leaders use Reddit, community engagement, content distribution, and audience building to drive awareness and customer acquisition.
+
+## Research Objectives
+
+* Identify proven Reddit marketing strategies used by B2B SaaS companies.
+* Analyze expert insights on community-led growth.
+* Study content distribution and audience-building tactics.
+* Understand how Reddit contributes to brand awareness, authority, and trust.
 
 ## Experts Included
 
@@ -20,11 +27,35 @@ Research how B2B SaaS companies use Reddit and community-driven marketing to acq
 ## Repository Structure
 
 research/
+
 ├── sources.md
+
 ├── linkedin-posts/
+
 ├── youtube-transcripts/
+
 └── other/
 
-## Research Method
+scripts/
 
-Content collected from LinkedIn posts, YouTube videos, podcasts, and other public resources.
+└── get_youtube_transcript.py
+
+## Data Collection Method
+
+LinkedIn posts were manually collected and summarized due to limitations in public API access.
+
+YouTube transcripts were collected through transcript APIs and AI-assisted tooling to demonstrate API integration and automated content collection.
+
+## Key Research Areas
+
+* Reddit marketing
+* Community-led growth
+* Content distribution
+* Audience development
+* B2B SaaS growth
+* Organic acquisition
+* Brand authority
+
+## Status
+
+Research collection in progress.
